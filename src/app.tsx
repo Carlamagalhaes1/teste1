@@ -24,7 +24,7 @@ export function App() {
         <p>
           E
           
-          ´´dit <code>src/app.tsx</code> akllklknd jhnksave to test HMR
+          ´´dit <code>src/app.tsx</code> akllklknd jokkhnksave to test HMR
         </p>
       </div>
       <p>
